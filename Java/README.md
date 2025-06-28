@@ -1,5 +1,43 @@
-# Estudos em Java
+# Praticando Java
 
-Java é uma linguagem de programação orientada a objetos, amplamente utilizada no desenvolvimento de aplicações corporativas, aplicativos Android, sistemas embarcados e plataformas web. Reconhecida por sua portabilidade — graças à Máquina Virtual Java (JVM) — e por sua forte tipagem, Java é uma linguagem madura, robusta e presente em diversos setores da tecnologia, sendo uma excelente escolha para quem deseja aprender programação de forma estruturada e com aplicação no mercado.
+Bem-vindo! Este repositório é destinado a iniciantes que desejam aprender e praticar a linguagem de programação Java.
 
-Durante o desenvolvimento de projetos em Java, especialmente à medida que eles crescem em complexidade, é comum utilizar ferramentas de automação de build como Ant, Maven e Gradle. Essas ferramentas facilitam tarefas como compilação, gerenciamento de bibliotecas externas, execução de testes e empacotamento do código. Enquanto o Ant permite maior controle manual sobre cada etapa do processo, Maven introduz convenções e gerenciamento automático de dependências, e Gradle oferece maior flexibilidade e desempenho, combinando o melhor dos dois mundos com uma abordagem mais moderna. Entender essas ferramentas é essencial para organizar projetos de forma eficiente e profissional.
+## Sobre Java
+
+Java é uma linguagem de programação de alto nível, orientada a objetos e de propósito geral. Desenvolvida pela Sun Microsystems e lançada em 1995, Java foi projetada com o princípio "escreva uma vez, execute em qualquer lugar" (Write Once, Run Anywhere - WORA), permitindo que o código Java seja executado em qualquer dispositivo que suporte a Java Virtual Machine (JVM).
+
+### Aplicações de Java
+
+Java é amplamente utilizado em diversas áreas, incluindo:
+
+- Desenvolvimento de Aplicações Web (Spring, Jakarta EE)
+- Aplicações Móveis (Android)
+- Big Data (Hadoop, Spark)
+- Aplicações Empresariais
+- Internet das Coisas (IoT)
+- Desenvolvimento de Jogos
+
+### Casos Reais de Uso
+
+- **Android**: Aplicações móveis são frequentemente desenvolvidas usando Java.
+- **LinkedIn**: Utiliza Java para seu back-end e infraestrutura.
+- **Netflix**: Usa Java para o back-end e análise de dados.
+- **Bancos e Instituições Financeiras**: Muitas aplicações bancárias e de trading são construídas em Java devido à sua robustez e segurança.
+
+## Recursos para Aprendizado
+
+### Cursos Gratuitos
+
+- [Curso em Vídeo - Java Básico](https://www.cursoemvideo.com/course/java-basico/)
+- [Coursera - Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
+- [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+
+### Documentação Oficial
+
+- [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+
+### Materiais Online
+
+- [W3Schools - Java Tutorial](https://www.w3schools.com/java/)
+- [JavaTPoint](https://www.javatpoint.com/java-tutorial)
+- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
