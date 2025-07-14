@@ -1,0 +1,93 @@
+{
+    "ID": {
+        "tipo_dado": "float64",
+        "validacoes": {
+            "completude": {
+                "total_linhas": 4,
+                "nulos": "1",
+                "porcentagem_nulos": 25.0,
+                "completo": "False"
+            },
+            "unicidade": {
+                "duplicados": "0",
+                "unico": "True"
+            },
+            "formato_data": {
+                "aplicavel": false
+            }
+        },
+        "score": 0.5,
+        "sugestoes": [
+            "\u2192 Preencher valores ausentes (m\u00e9dia, moda, interpola\u00e7\u00e3o, etc.)"
+        ]
+    },
+    "Nome": {
+        "tipo_dado": "object",
+        "validacoes": {
+            "completude": {
+                "total_linhas": 4,
+                "nulos": "0",
+                "porcentagem_nulos": 0.0,
+                "completo": "True"
+            },
+            "unicidade": {
+                "duplicados": "0",
+                "unico": "True"
+            },
+            "formato_data": {
+                "aplicavel": false
+            }
+        },
+        "score": 1.0,
+        "sugestoes": [
+            "Nenhuma sugest\u00e3o necess\u00e1ria."
+        ]
+    },
+    "Data_Nascimento": {
+        "tipo_dado": "object",
+        "validacoes": {
+            "completude": {
+                "total_linhas": 4,
+                "nulos": "0",
+                "porcentagem_nulos": 0.0,
+                "completo": "True"
+            },
+            "unicidade": {
+                "duplicados": "0",
+                "unico": "True"
+            },
+            "formato_data": {
+                "validos": "3",
+                "invalidos": "1",
+                "formato_correto": "False"
+            }
+        },
+        "score": 0.67,
+        "sugestoes": [
+            "Nenhuma sugest\u00e3o necess\u00e1ria."
+        ]
+    },
+    "Salario": {
+        "tipo_dado": "int64",
+        "validacoes": {
+            "completude": {
+                "total_linhas": 4,
+                "nulos": "0",
+                "porcentagem_nulos": 0.0,
+                "completo": "True"
+            },
+            "unicidade": {
+                "duplicados": "0",
+                "unico": "True"
+            },
+            "formato_data": {
+                "aplicavel": false
+            }
+        },
+        "score": 1.0,
+        "sugestoes": [
+            "Nenhuma sugest\u00e3o necess\u00e1ria."
+        ]
+    },
+    "score_geral": 0.79
+}
