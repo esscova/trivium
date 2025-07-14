@@ -1,0 +1,62 @@
+[
+    {
+        "nome":"Thales câmara",
+        "data_nascimento":"1999-12-18",
+        "email":"brayancamargo@example.com",
+        "telefone":"+55 71 1913 8526"
+    },
+    {
+        "nome":"Renan novaes",
+        "data_nascimento":"1946-07-01",
+        "email":"joao-guilhermecampos@example.org",
+        "telefone":"(041) 6240-6162"
+    },
+    {
+        "nome":"Gustavo costa",
+        "data_nascimento":"1958-11-26",
+        "email":"siqueiragustavo-henrique@example.com",
+        "telefone":"11 0547 6717"
+    },
+    {
+        "nome":"Liam mendonça",
+        "data_nascimento":"1951-03-22",
+        "email":"zda-mata@example.org",
+        "telefone":"21 8550-9925"
+    },
+    {
+        "nome":"Sr. josé costa",
+        "data_nascimento":"1980-02-28",
+        "email":"ana-julia14@example.net",
+        "telefone":"81 3888 5060"
+    },
+    {
+        "nome":"Sr. felipe cavalcanti",
+        "data_nascimento":"1953-01-19",
+        "email":"heloisasousa@example.net",
+        "telefone":"+55 (051) 8389-8758"
+    },
+    {
+        "nome":"Noah campos",
+        "data_nascimento":"1981-10-19",
+        "email":"henriqueribeiro@example.com",
+        "telefone":"+55 (071) 0611-6397"
+    },
+    {
+        "nome":"Ayla fernandes",
+        "data_nascimento":"1984-12-27",
+        "email":"esterda-mota@example.net",
+        "telefone":"(061) 5345 2843"
+    },
+    {
+        "nome":"Oliver machado",
+        "data_nascimento":"1972-07-26",
+        "email":"eloa04@example.net",
+        "telefone":"+55 84 0200-9167"
+    },
+    {
+        "nome":"Maria vitória da costa",
+        "data_nascimento":"1986-07-30",
+        "email":"nogueiraliam@example.com",
+        "telefone":"+55 51 4006 2555"
+    }
+]
